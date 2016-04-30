@@ -1,3 +1,4 @@
-# Joe-s-Curated-Programming-Resources
+# Joe's Curated Programming Resources
 
-JavaScript
+##JavaScript
+*[JavaScript for Cats by Max Ogden](http://jsforcats.com/)
