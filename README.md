@@ -21,3 +21,4 @@
 * [You don't know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 * [JSHint: A JavaScript code quality tool.](http://jshint.com/)
 * [idiomatic.js: Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* [Speaking JavaScript by Dr. Axel Rauschmayer](http://speakingjs.com/es5/index.html)
